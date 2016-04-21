@@ -8,6 +8,10 @@ this is a sample introduction
 
 ## Purpose
 
+bla bla bla
+
 ## Deployment
+
+bla blab bl
 
 ## How To Contribute
